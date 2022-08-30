@@ -1,3 +1,3 @@
 # rMarkerBuilder
 
-- Discord : https://discord.gg/rdevv
+- Discord : https://discord.gg/rdev
